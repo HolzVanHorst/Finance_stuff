@@ -1,3 +1,6 @@
+# About this Fork
+This is a personal fork of the Original Project for private use.
+Original project: [[Original Project](https://github.com/we-promise/sure)]
 
 <img width="1270" height="1140" alt="sure_shot" src="https://github.com/user-attachments/assets/9c6e03cc-3490-40ab-9a68-52e042c51293" />
 
